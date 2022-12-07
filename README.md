@@ -6,6 +6,8 @@ This is a simple UNIX command interpreter based on Bash and Sh.
 
 **Simple_Shell** is an sh-compatible command language interpreter that executes commands read from the standard input or from a file.
 
+
+
 ## Authors & Copyrights
 
 * Caleb Poku Ackom [CalebAckom](https://github.com/CalebAckom)
